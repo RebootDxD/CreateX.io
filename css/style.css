@@ -1139,7 +1139,7 @@ footer {
 .blog_slide_link::before {
     content: "";
     position: absolute;
-    background: url("/images/icons/arrow_right.svg") no-repeat;
+    background: url("./images/icons/arrow_right.svg") no-repeat;
     width: 18px;
     height: 11px;
     transform: translate(55px, 8px);
